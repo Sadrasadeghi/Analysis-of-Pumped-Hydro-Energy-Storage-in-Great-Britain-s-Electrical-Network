@@ -1,1 +1,3 @@
 # Analysis-of-Pumped-Hydro-Energy-Storage-in-Great-Britain-s-Electrical-Network
+
+Summary: This project involved analyzing half-hourly generation data of different types of power production using Python to understand changes in PHES operation and identifying barriers to its operation in Great Britain's electrical network. The project highlighted the importance of energy storage technologies like PHES in achieving a sustainable and renewable energy industry, and the need for suitable economic regulations for PHES operators. The project also determined the levels of flexibility provided by PHES to the electrical grid despite a decrease in generation output.
